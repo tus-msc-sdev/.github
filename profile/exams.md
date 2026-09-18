@@ -1,8 +1,6 @@
 
 # [MSc in Software Development with Cloud Native Computing](readme.md "MSc in Software Development with Cloud Native Computing")
 
-Built using [the-moodler](https://github.com/sdevtutors/the-moodler "the-moodler") by [Mark Crowe](https://github.com/sdevtutors "Mark Crowe @ GitHub").
-
 ## Semester 1
 
 **Modules:**
