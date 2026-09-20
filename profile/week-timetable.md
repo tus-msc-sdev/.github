@@ -1,6 +1,10 @@
 
 # [MSc in Software Development with Cloud Native Computing](readme.md "MSc in Software Development with Cloud Native Computing")
 
+---
+
+Link: <https://timetables.midlands.tus.ie/2627/default.aspx>  
+
 ## Timetable
 
 Monday:
