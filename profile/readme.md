@@ -1,6 +1,13 @@
 
 # MSc in Software Development with Cloud Native Computing 2027
 
+---
+
+<https://tus.ie/courses/msc-in-software-design-with-cloud-native-computing/>  
+<https://tus.ie/courses/msc-software-design-with-cloud-native-computing/>  
+
+---
+
 ## Schedule
 
 - [Calendar](calendar.md "Calendar")
