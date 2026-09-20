@@ -1,6 +1,9 @@
 
 # [MSc in Software Development with Cloud Native Computing](readme.md "MSc in Software Development with Cloud Native Computing")
 
+Original: <https://tus.ie/registry/academic-calendar/>  
+Date: Sep 20, 2026  
+
 ## Academic Calendar 2026/2027
 
 ### Semester 1 (2026)
